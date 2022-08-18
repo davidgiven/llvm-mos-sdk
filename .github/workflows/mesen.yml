@@ -21,5 +21,4 @@ jobs:
       - name: Run mesen.
         run: |
           echo 'emu.stop(1)' > script.lua
-          # xvfb-run mono Mesen.exe --testrunner script.lua
-          xvfb-run ls
+          xvfb-run mono Mesen.exe --testrunner script.lua
