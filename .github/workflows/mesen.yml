@@ -17,6 +17,8 @@ jobs:
           curl -Lo mesen.zip https://www.mesen.ca/download.php
           unzip mesen.zip
           chmod +x Mesen.exe
+          # Keep mesen from popping up a configuration wizard.
+          touch settings.xml
 
       - name: Run mesen.
         run: |
