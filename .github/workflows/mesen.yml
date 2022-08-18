@@ -1,4 +1,4 @@
-name: Package
+name: Try mesen
 on:
   push:
     branches: [ mesen-ci ]
@@ -21,4 +21,4 @@ jobs:
       - name: Run mesen.
         run: |
           echo 'emu.stop(1)' > script.lua
-          mono Mesen.exe --testrunner script.lua
+          xvfb-run mono Mesen.exe --testrunner script.lua
