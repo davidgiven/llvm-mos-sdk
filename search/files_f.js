@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['type_5ftraits_1548',['type_traits',['../type__traits.html',1,'']]],
-  ['typeinfo_1549',['typeinfo',['../typeinfo.html',1,'']]]
+  ['osi_5fscreen_2eh_2573',['osi_screen.h',['../osi__screen_8h.html',1,'']]]
 ];

@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['padlib_2eh_1539',['padlib.h',['../padlib_8h.html',1,'']]],
-  ['peekpoke_2eh_1540',['peekpoke.h',['../peekpoke_8h.html',1,'']]],
-  ['private_2dtypeinfo_2eh_1541',['private-typeinfo.h',['../private-typeinfo_8h.html',1,'']]]
+  ['license_2559',['LICENSE',['../famitone2_2LICENSE.html',1,'(Global Namespace)'],['../nesdoug_2LICENSE.html',1,'(Global Namespace)'],['../neslib_2LICENSE.html',1,'(Global Namespace)']]],
+  ['limits_2560',['limits',['../limits.html',1,'']]]
 ];

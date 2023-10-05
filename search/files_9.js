@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['license_1529',['LICENSE',['../famitone2_2LICENSE.html',1,'(Global Namespace)'],['../nesdoug_2LICENSE.html',1,'(Global Namespace)'],['../neslib_2LICENSE.html',1,'(Global Namespace)']]],
-  ['limits_1530',['limits',['../limits.html',1,'']]]
+  ['hardware_2eh_2552',['hardware.h',['../pce-common_2libpce_2include_2pce_2hardware_8h.html',1,'(Global Namespace)'],['../rpc8e_2librpc8e_2include_2rpc8e_2hardware_8h.html',1,'(Global Namespace)']]]
 ];

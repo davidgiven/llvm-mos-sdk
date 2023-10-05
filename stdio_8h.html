@@ -107,9 +107,9 @@ Functions</h2></td></tr>
 <tr class="separator:a98631211a4a8aee62f572375d5b637be"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a07bb8b97d4180b8f8b67de90890bafdf"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a07bb8b97d4180b8f8b67de90890bafdf">sprintf</a> (char *buffer, const char *format,...)</td></tr>
 <tr class="separator:a07bb8b97d4180b8f8b67de90890bafdf"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a212e2f1c2162f8a24b156191be16b6cd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a212e2f1c2162f8a24b156191be16b6cd">snprintf</a> (char *buffer, size_t count, const char *format,...)</td></tr>
+<tr class="memitem:a212e2f1c2162f8a24b156191be16b6cd"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a212e2f1c2162f8a24b156191be16b6cd">snprintf</a> (char *buffer, size_t <a class="el" href="memory_8h.html#ab5f5eef872ec5f049b302678d546b79f">count</a>, const char *format,...)</td></tr>
 <tr class="separator:a212e2f1c2162f8a24b156191be16b6cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61bd4f47896225e10fc347c3896c323f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a61bd4f47896225e10fc347c3896c323f">vsnprintf</a> (char *buffer, size_t count, const char *format, va_list va)</td></tr>
+<tr class="memitem:a61bd4f47896225e10fc347c3896c323f"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a61bd4f47896225e10fc347c3896c323f">vsnprintf</a> (char *buffer, size_t <a class="el" href="memory_8h.html#ab5f5eef872ec5f049b302678d546b79f">count</a>, const char *format, va_list va)</td></tr>
 <tr class="separator:a61bd4f47896225e10fc347c3896c323f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a20f1da88e04923a70e29185ac6400165"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="stdio_8h.html#a20f1da88e04923a70e29185ac6400165">vprintf</a> (const char *format, va_list va)</td></tr>
 <tr class="separator:a20f1da88e04923a70e29185ac6400165"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -265,8 +265,8 @@ Functions</h2></td></tr>
 <p>Tiny snprintf/vsnprintf implementation </p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
     <tr><td class="paramname">buffer</td><td>A pointer to the buffer where to store the formatted string </td></tr>
-    <tr><td class="paramname">count</td><td>The maximum number of characters to store in the buffer, including a terminating null character </td></tr>
-    <tr><td class="paramname">format</td><td>A string that specifies the format of the output </td></tr>
+    <tr><td class="paramname">count</td><td>The maximum number of characters to store in the buffer, including a terminating null character</td></tr>
+    <tr><td class="paramname">format</td><td>A string that specifies the format of the output</td></tr>
     <tr><td class="paramname">va</td><td>A value identifying a variable arguments list </td></tr>
   </table>
   </dd>
@@ -306,9 +306,9 @@ Functions</h2></td></tr>
         </tr>
       </table>
 </div><div class="memdoc">
-<p>Tiny sprintf implementation Due to security reasons (buffer overflow) YOU SHOULD CONSIDER USING (V)SNPRINTF INSTEAD! </p><dl class="params"><dt>Parameters</dt><dd>
+<p>Tiny sprintf implementation Due to security reasons (buffer overflow) YOU SHOULD CONSIDER USING (V)SNPRINTF INSTEAD!</p><dl class="params"><dt>Parameters</dt><dd>
   <table class="params">
-    <tr><td class="paramname">buffer</td><td>A pointer to the buffer where to store the formatted string. MUST be big enough to store the output! </td></tr>
+    <tr><td class="paramname">buffer</td><td>A pointer to the buffer where to store the formatted string. MUST be big enough to store the output!</td></tr>
     <tr><td class="paramname">format</td><td>A string that specifies the format of the output </td></tr>
   </table>
   </dd>

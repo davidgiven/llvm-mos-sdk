@@ -1,7 +1,5 @@
 var searchData=
 [
-  ['ppu_5faddress_1909',['ppu_address',['../nesdoug_8h.html#a6a8d94a2631d95fbef64128812a85ce1',1,'nesdoug.h']]],
-  ['project_1910',['Project',['../famitone2_2LICENSE.html#abd395ffefac6eeefe0afc96b11cc2a4a',1,'Project():&#160;LICENSE'],['../neslib_2LICENSE.html#abd395ffefac6eeefe0afc96b11cc2a4a',1,'Project():&#160;LICENSE']]],
-  ['publish_1911',['publish',['../famitone2_2LICENSE.html#a5a51f55a6f42a006ce57f5f015db0854',1,'publish():&#160;LICENSE'],['../nesdoug_2LICENSE.html#a1fa1a6567d41fe738adb2c8ead4d9da4',1,'publish():&#160;LICENSE'],['../neslib_2LICENSE.html#a5a51f55a6f42a006ce57f5f015db0854',1,'publish():&#160;LICENSE']]],
-  ['putchar_1912',['putchar',['../struct__sim__reg.html#ab7d530c65509116f5c15a442344f4c95',1,'_sim_reg']]]
+  ['name_3256',['name',['../structcbm__dirent.html#a98c5c84318c6a7738197153c85304a65',1,'cbm_dirent::name()'],['../structDRIVER.html#a4c171553193069c67bb7dc6d96344bfa',1,'DRIVER::name()']]],
+  ['nothrow_3257',['nothrow',['../namespacestd.html#ae4b7b14b5246bacb54f2a4ae366ccd44',1,'std']]]
 ];

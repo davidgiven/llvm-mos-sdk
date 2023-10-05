@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['osi_5fscreen_2eh_1538',['osi_screen.h',['../osi__screen_8h.html',1,'']]]
+  ['joypad_2eh_2558',['joypad.h',['../joypad_8h.html',1,'']]]
 ];

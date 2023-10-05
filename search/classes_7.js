@@ -1,8 +1,5 @@
 var searchData=
 [
-  ['make_5funsigned_1452',['make_unsigned',['../structmake__unsigned.html',1,'']]],
-  ['make_5funsigned_3c_20int_20_3e_1453',['make_unsigned&lt; int &gt;',['../structmake__unsigned_3_01int_01_4.html',1,'']]],
-  ['make_5funsigned_3c_20long_20_3e_1454',['make_unsigned&lt; long &gt;',['../structmake__unsigned_3_01long_01_4.html',1,'']]],
-  ['make_5funsigned_3c_20long_20long_20_3e_1455',['make_unsigned&lt; long long &gt;',['../structmake__unsigned_3_01long_01long_01_4.html',1,'']]],
-  ['make_5funsigned_3c_20signed_20char_20_3e_1456',['make_unsigned&lt; signed char &gt;',['../structmake__unsigned_3_01signed_01char_01_4.html',1,'']]]
+  ['has_5funique_5fobject_5frepresentations_2360',['has_unique_object_representations',['../structstd_1_1has__unique__object__representations.html',1,'std']]],
+  ['has_5fvirtual_5fdestructor_2361',['has_virtual_destructor',['../structstd_1_1has__virtual__destructor.html',1,'std']]]
 ];

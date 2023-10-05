@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['y_1940',['y',['../api_8h.html#ac38a342729250f8b4b5dd7239e4930f1',1,'y():&#160;api.h'],['../nesdoug_8h.html#ac38a342729250f8b4b5dd7239e4930f1',1,'y():&#160;nesdoug.h'],['../neslib_8h.html#ac38a342729250f8b4b5dd7239e4930f1',1,'y():&#160;neslib.h']]],
-  ['y0_1941',['y0',['../api_8h.html#ac701731a8c2a2476de06defde96ac6ed',1,'api.h']]],
-  ['y1_1942',['y1',['../api_8h.html#ac84e2e328498670cfadccaecb0a283c8',1,'api.h']]]
+  ['unclaimed_3299',['unclaimed',['../struct__sim__reg.html#ab3a5e278b65999beb7b26b1e46494c19',1,'_sim_reg']]],
+  ['use_3300',['use',['../famitone2_2LICENSE.html#ad9560658c9a0ef4ecdf80639dc9d3142',1,'use():&#160;LICENSE'],['../nesdoug_2LICENSE.html#a37d51c2d1e9296bc4cd1ad1eb80d3096',1,'use():&#160;LICENSE'],['../neslib_2LICENSE.html#ad9560658c9a0ef4ecdf80639dc9d3142',1,'use():&#160;LICENSE']]]
 ];

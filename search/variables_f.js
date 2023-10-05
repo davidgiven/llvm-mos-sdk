@@ -1,10 +1,7 @@
 var searchData=
 [
-  ['radix_1913',['radix',['../structstd_1_1__numeric__limits__helper.html#ae9181dc3962db0e1f289106ddb669110',1,'std::_numeric_limits_helper::radix()'],['../structstd_1_1__numeric__limits__helper_3_01T_00_01true_01_4.html#a1fe931d3975e68631a91ddf150fa604a',1,'std::_numeric_limits_helper&lt; T, true &gt;::radix()']]],
-  ['rank_5fv_1914',['rank_v',['../namespacestd.html#a2ac62d91ec2fb1c0556fb38c0d704762',1,'std']]],
-  ['rcb_1915',['RCB',['../cpm_8h.html#ab9837f33ce0f8ab64c02e34d1b3a9022',1,'cpm.h']]],
-  ['restriction_1916',['restriction',['../famitone2_2LICENSE.html#a58aca9081b0d67005433fe1652556625',1,'restriction():&#160;LICENSE'],['../nesdoug_2LICENSE.html#ad5f959ac4e93d224d9a9541f3b1e2321',1,'restriction():&#160;LICENSE'],['../neslib_2LICENSE.html#a58aca9081b0d67005433fe1652556625',1,'restriction():&#160;LICENSE']]],
-  ['revision_1917',['revision',['../api_8h.html#a21bd7001aad1a8ada9cf0c17c1f5d5ee',1,'api.h']]],
-  ['rights_1918',['rights',['../famitone2_2LICENSE.html#aca38431b9d429760b25688437f759aa7',1,'rights():&#160;LICENSE'],['../neslib_2LICENSE.html#aca38431b9d429760b25688437f759aa7',1,'rights():&#160;LICENSE']]],
-  ['round_5fstyle_1919',['round_style',['../classstd_1_1numeric__limits.html#a4cbf41c5cc07df429381b6cca9ecb2f5',1,'std::numeric_limits']]]
+  ['object2_3258',['object2',['../nesdoug_8h.html#af939bde22909fa3ebb725009989cdaec',1,'nesdoug.h']]],
+  ['or_3259',['OR',['../famitone2_2LICENSE.html#a033cb8ab1b59cab858cc16088d7a3250',1,'OR():&#160;LICENSE'],['../neslib_2LICENSE.html#a033cb8ab1b59cab858cc16088d7a3250',1,'OR():&#160;LICENSE']]],
+  ['other_3260',['OTHER',['../famitone2_2LICENSE.html#aa0d5cdea3225ca714eec3a6d277b27bf',1,'OTHER():&#160;LICENSE'],['../neslib_2LICENSE.html#aa0d5cdea3225ca714eec3a6d277b27bf',1,'OTHER():&#160;LICENSE']]],
+  ['otherwise_3261',['OTHERWISE',['../famitone2_2LICENSE.html#a70e98742c77a2ae067b6ecea8537e100',1,'OTHERWISE():&#160;LICENSE'],['../nesdoug_2LICENSE.html#a22fe198fe971fed282341c73635874d3',1,'OTHERWISE():&#160;LICENSE'],['../neslib_2LICENSE.html#a70e98742c77a2ae067b6ecea8537e100',1,'OTHERWISE():&#160;LICENSE']]]
 ];

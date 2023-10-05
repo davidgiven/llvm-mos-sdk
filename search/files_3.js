@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['bank_2eh_1506',['bank.h',['../nes-mmc1_2bank_8h.html',1,'(Global Namespace)'],['../nes-mmc3_2bank_8h.html',1,'(Global Namespace)']]]
+  ['bank_2eh_2518',['bank.h',['../bank_8h.html',1,'']]],
+  ['bios_2eh_2519',['bios.h',['../bios_8h.html',1,'']]]
 ];
