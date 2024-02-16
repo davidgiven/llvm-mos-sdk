@@ -1,9 +1,10 @@
 var searchData=
 [
-  ['abs_2790',['abs',['../common_2include_2stdlib_8h.html#af15d7205d8d10c4820f997ce5c526279',1,'stdlib.h']]],
-  ['array_2791',['Array',['../classsoa_1_1Array.html#aeb93ca55436d2407a8e33d31233e2d62',1,'soa::Array::Array(std::initializer_list&lt; T &gt; Entries)'],['../classsoa_1_1Array.html#a13c4acc5709d612454da0adcf42aa1ed',1,'soa::Array::Array()=default'],['../classsoa_1_1Array.html#ab2db6428f749572e4aff70c3d5cbbc87',1,'soa::Array::Array(const Array&lt; T, M &gt; &amp;Other)']]],
-  ['arrayconstiterator_2792',['ArrayConstIterator',['../classsoa_1_1ArrayConstIterator.html#a9221be96a79d3231a8bfa2873f896b7a',1,'soa::ArrayConstIterator']]],
-  ['atexit_2793',['atexit',['../common_2include_2stdlib_8h.html#abafa702ca312dee5f5ece5fb4a97d7ff',1,'stdlib.h']]],
-  ['atoi_2794',['atoi',['../common_2include_2stdlib_8h.html#a30670a60464f77af17dfb353353d6df8',1,'stdlib.h']]],
-  ['atol_2795',['atol',['../common_2include_2stdlib_8h.html#a825c37450147a643edbcb1a435518307',1,'stdlib.h']]]
+  ['_5fstrrev_3026',['_strrev',['../string_8h.html#a5806abdb570d1f705d11cdf54766d0a2',1,'string.h']]],
+  ['_5fstrtoi_3027',['_strtoi',['../common_2include_2stdlib_8h.html#ae6a3b254a0824e9be6b3f7c5395dc11b',1,'stdlib.h']]],
+  ['_5fstrtosc_3028',['_strtosc',['../common_2include_2stdlib_8h.html#ae8e7330ff91ea746702fc76309951b9a',1,'stdlib.h']]],
+  ['_5fstrtouc_3029',['_strtouc',['../common_2include_2stdlib_8h.html#a622e2a1f68eac291cd2182b1d498165b',1,'stdlib.h']]],
+  ['_5fstrtoui_3030',['_strtoui',['../common_2include_2stdlib_8h.html#aa1dc5aaeb7fd8b683bcc8ad03bdb8aa8',1,'stdlib.h']]],
+  ['_5fsysremove_3031',['_sysremove',['../rp6502_8h.html#a99f91a1050599cd8b09316acebfc032e',1,'rp6502.h']]],
+  ['_5fsysrename_3032',['_sysrename',['../rp6502_8h.html#ad4825a561677529c89cea05bc367c8a0',1,'rp6502.h']]]
 ];
