@@ -1,8 +1,6 @@
 var searchData=
 [
-  ['round_5findeterminate_4087',['round_indeterminate',['../namespacestd.html#a53dbc8572a84ca50272f9e55a1e23e18a9aa7e9f8d978fbe044c24a67da2d0464',1,'std']]],
-  ['round_5fto_5fnearest_4088',['round_to_nearest',['../namespacestd.html#a53dbc8572a84ca50272f9e55a1e23e18a43219e58bf0b1438dce779ae47760772',1,'std']]],
-  ['round_5ftoward_5finfinity_4089',['round_toward_infinity',['../namespacestd.html#a53dbc8572a84ca50272f9e55a1e23e18a39c9297336599616c46f98eaf73c6191',1,'std']]],
-  ['round_5ftoward_5fneg_5finfinity_4090',['round_toward_neg_infinity',['../namespacestd.html#a53dbc8572a84ca50272f9e55a1e23e18a5e57d9d7178fe199cfd05b67e9d3c69d',1,'std']]],
-  ['round_5ftoward_5fzero_4091',['round_toward_zero',['../namespacestd.html#a53dbc8572a84ca50272f9e55a1e23e18a16cd490308c5bcba330c09f844f92f1d',1,'std']]]
+  ['hdr_5fchksum_5ferr_6839',['HDR_CHKSUM_ERR',['../geos__constants_8h.html#a8f73e970f5de385ee26828c00e27d402a3cc91e8f31570ba49228520e3376d842',1,'geos_constants.h']]],
+  ['hdr_5fnot_5fthere_6840',['HDR_NOT_THERE',['../geos__constants_8h.html#a8f73e970f5de385ee26828c00e27d402a7ebd72bbac2ebbe6da8a34344d9426dd',1,'geos_constants.h']]],
+  ['horizontal_6841',['HORIZONTAL',['../geos__constants_8h.html#ae04d0184eeca6be261090a6cfc49b92ea4dd51ad73508d6fc83a502966779e48e',1,'geos_constants.h']]]
 ];

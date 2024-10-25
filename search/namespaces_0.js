@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['soa_2895',['soa',['../namespacesoa.html',1,'']]],
-  ['std_2896',['std',['../namespacestd.html',1,'']]]
+  ['fixedpoint_5fliterals_4850',['fixedpoint_literals',['../namespacefixedpoint__literals.html',1,'']]]
 ];

@@ -1,19 +1,15 @@
 var searchData=
 [
-  ['tv_5fnone_4096',['TV_NONE',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a35a45da323c03c7ece28d4db0a3d3765',1,'cx16.h']]],
-  ['tv_5fnone2_4097',['TV_NONE2',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a425b2543d12dfd6dc95675bc8d0a0185',1,'cx16.h']]],
-  ['tv_5fnone2_5f240p_4098',['TV_NONE2_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017abb7eef52bf378be0fc72cf46eb393555',1,'cx16.h']]],
-  ['tv_5fnone_5f240p_4099',['TV_NONE_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a6f234685cf4fe6b29cb5d7b2e20a1a41',1,'cx16.h']]],
-  ['tv_5fntsc_5fcolor_4100',['TV_NTSC_COLOR',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017ac10def66e61fd0235d5ed13e98c49ce8',1,'cx16.h']]],
-  ['tv_5fntsc_5fcolor_5f240p_4101',['TV_NTSC_COLOR_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a50fa8c5b069cc67608f9c60beac65220',1,'cx16.h']]],
-  ['tv_5fntsc_5fmono_4102',['TV_NTSC_MONO',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a51bcb9a3a7ded8624c9d77716681687b',1,'cx16.h']]],
-  ['tv_5fntsc_5fmono_5f240p_4103',['TV_NTSC_MONO_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a896c74f6784a1b5617fb6cad15ab95cc',1,'cx16.h']]],
-  ['tv_5frgb_4104',['TV_RGB',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017afced6453a89dda45b9081014285c4851',1,'cx16.h']]],
-  ['tv_5frgb2_4105',['TV_RGB2',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a03aef7f2ffbb4cceb78a4477e70577fc',1,'cx16.h']]],
-  ['tv_5frgb2_5f240p_4106',['TV_RGB2_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017ad9834f3623444e79f83d4d0ff06386a3',1,'cx16.h']]],
-  ['tv_5frgb_5f240p_4107',['TV_RGB_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a2b18b06541f10d706b813899e2a96909',1,'cx16.h']]],
-  ['tv_5fvga_4108',['TV_VGA',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017afc86db0b8a4a3b06e6f204782703889c',1,'cx16.h']]],
-  ['tv_5fvga2_4109',['TV_VGA2',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017ab4801a7bd26fa4788255586808cbc9f3',1,'cx16.h']]],
-  ['tv_5fvga2_5f240p_4110',['TV_VGA2_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a66b31dded26933d6971ca59949ca85f9',1,'cx16.h']]],
-  ['tv_5fvga_5f240p_4111',['TV_VGA_240P',['../cx16_8h.html#a634f9f55e799f3052a34590f08100017a80a9565b2e0c9085a94b46293c46937b',1,'cx16.h']]]
+  ['joy_5fbtn_5fa_5fmask_6848',['JOY_BTN_A_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a9c21c9ecff6513f67f4ebd521cc81456',1,'cx16.h']]],
+  ['joy_5fbtn_5fb_5fmask_6849',['JOY_BTN_B_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a69cadb584e26f719444c06c976c05468',1,'cx16.h']]],
+  ['joy_5fbtn_5fx_5fmask_6850',['JOY_BTN_X_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256aed78312e0ab9669f07b6cc5c6b947f86',1,'cx16.h']]],
+  ['joy_5fbtn_5fy_5fmask_6851',['JOY_BTN_Y_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a9e0bab9dc14e5612faf2520764e513e3',1,'cx16.h']]],
+  ['joy_5fdown_5fmask_6852',['JOY_DOWN_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256aa0f9d4f7d0ad3f016117a960d7b4789b',1,'cx16.h']]],
+  ['joy_5ffire_5fleft_5fmask_6853',['JOY_FIRE_LEFT_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256aa877da6fcf059955ad8e780bbde3789e',1,'cx16.h']]],
+  ['joy_5ffire_5fright_5fmask_6854',['JOY_FIRE_RIGHT_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a6ede80dca2d7b040f8c5742e3afe4711',1,'cx16.h']]],
+  ['joy_5fleft_5fmask_6855',['JOY_LEFT_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a5009f65eb88e5c668fd6d684497ed0bf',1,'cx16.h']]],
+  ['joy_5fright_5fmask_6856',['JOY_RIGHT_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a180c3210fb2d1f57b5a93ef349ad55d3',1,'cx16.h']]],
+  ['joy_5fselect_5fmask_6857',['JOY_SELECT_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256af72050dae9d0b6d14166a75abefdde03',1,'cx16.h']]],
+  ['joy_5fstart_5fmask_6858',['JOY_START_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a2e6f14006a012f4664893e321ff524a8',1,'cx16.h']]],
+  ['joy_5fup_5fmask_6859',['JOY_UP_MASK',['../cx16_8h.html#acccca2614a595986f8c5ab78892b9256a2c68b9032ab0f6cdd09dfc8ccb4e3399',1,'cx16.h']]]
 ];

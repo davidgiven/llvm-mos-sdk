@@ -1,12 +1,14 @@
 var searchData=
 [
-  ['vera_5flayer_5fenable_3536',['vera_layer_enable',['../cx16_8h.html#a5858aa4b14df2b02f0100f33a588baa2',1,'cx16.h']]],
-  ['vera_5fsprites_5fenable_3537',['vera_sprites_enable',['../cx16_8h.html#aaf115703e890719c1666d5bda2897c50',1,'cx16.h']]],
-  ['videomode_3538',['videomode',['../c128_8h.html#a6b383e3e735451959fbb1f655a72e55b',1,'videomode(unsigned char mode):&#160;c128.h'],['../cx16_8h.html#a3717f98d8e7fedf291cb6d372e49f7ca',1,'videomode(signed char mode) __attribute__((leaf)):&#160;cx16.h']]],
-  ['vpeek_3539',['vpeek',['../cx16_8h.html#af9881c814f2b40278c6f104ff3a171d0',1,'cx16.h']]],
-  ['vpoke_3540',['vpoke',['../cx16_8h.html#a932344999f2d172264c938eaa65f81fc',1,'cx16.h']]],
-  ['vprintf_3541',['vprintf',['../stdio_8h.html#a20f1da88e04923a70e29185ac6400165',1,'stdio.h']]],
-  ['vram_5fadr_3542',['vram_adr',['../neslib_8h.html#ab435b344bc9ef4b60f84c1357d171c8a',1,'neslib.h']]],
-  ['vram_5fput_3543',['vram_put',['../neslib_8h.html#a43abedc1019b177c9baeeffd4402ccb2',1,'neslib.h']]],
-  ['vsnprintf_3544',['vsnprintf',['../stdio_8h.html#a61bd4f47896225e10fc347c3896c323f',1,'stdio.h']]]
+  ['temphidemouse_5863',['TempHideMouse',['../geos__routines_8h.html#a5f75c9f65ca7630af83e7758b33e8862',1,'geos_routines.h']]],
+  ['terminate_5864',['terminate',['../namespacestd.html#ab3484b146d653a7aa1550258d068040d',1,'std']]],
+  ['testpoint_5865',['TestPoint',['../geos__routines_8h.html#a8e1f0b3bd6f50df5248c5b1cee500172',1,'geos_routines.h']]],
+  ['tmpfile_5866',['tmpfile',['../stdio_8h.html#aa415204f66d1e605f41738e448208467',1,'stdio.h']]],
+  ['tmpnam_5867',['tmpnam',['../stdio_8h.html#a40fed8025e330ff3106a087d3268a975',1,'stdio.h']]],
+  ['to_5finteger_5868',['to_integer',['../namespacestd.html#a56a35a04921f49c9e6ea1cb5d7b564f4',1,'std']]],
+  ['tobasic_5869',['ToBasic',['../geos__routines_8h.html#a2f1229077d081728079646d86dcb4421',1,'geos_routines.h']]],
+  ['tolower_5870',['tolower',['../ctype_8h.html#ac79d6114c9df7350cedcd8cf921a6ea4',1,'ctype.h']]],
+  ['toupper_5871',['toupper',['../ctype_8h.html#a9c2f57ac3865af9006fdbfd5db9fd517',1,'ctype.h']]],
+  ['trigger_5fdma_5872',['trigger_dma',['../namespacemega65_1_1dma.html#a496e8da7f41a79ee0ba13e537d6e34aa',1,'mega65::dma']]],
+  ['type_5finfo_5873',['type_info',['../classstd_1_1type__info.html#a4ae98c6ecfeae4821638f6c367fd7657',1,'std::type_info']]]
 ];

@@ -1,8 +1,8 @@
 var searchData=
 [
-  ['clockid_5ft_3835',['clockid_t',['../time_8h.html#a6dcac6a5cea7d9c842145e1444d91e22',1,'time.h']]],
-  ['conditional_5ft_3836',['conditional_t',['../namespacestd.html#ad26ec97015bece931ea3eeaa99d72a7d',1,'std']]],
-  ['const_5fiterator_3837',['const_iterator',['../structstd_1_1array.html#a10d5352fd09426df824b0ebfc648a43b',1,'std::array::const_iterator()'],['../classstd_1_1initializer__list.html#ac85d47e670cf0511e1bb857b69971b70',1,'std::initializer_list::const_iterator()']]],
-  ['const_5fpointer_3838',['const_pointer',['../structstd_1_1array.html#acf7d5416a0a827c3fc87e7714465b264',1,'std::array']]],
-  ['const_5freference_3839',['const_reference',['../structstd_1_1array.html#a065407c36ec085c45addbe397e58fcf2',1,'std::array::const_reference()'],['../classstd_1_1initializer__list.html#a4a67866454f44b1160a7c6baba01a3da',1,'std::initializer_list::const_reference()']]]
+  ['bam_5ftrack_5ft_6474',['bam_track_t',['../geos__types_8h.html#aba5dc961180d635380e1789497f02b1a',1,'geos_types.h']]],
+  ['bank_5findex_5ft_6475',['bank_index_t',['../atari2600-3e_2mapper_8h.html#a2d3bdbf79a046e550271431c6b7cf826',1,'mapper.h']]],
+  ['banked_5farea_5ft_6476',['banked_area_t',['../mapper__rom__multi_8h.html#a1a64988832a46fa4c094819399816798',1,'mapper_rom_multi.h']]],
+  ['bool_5fconstant_6477',['bool_constant',['../namespacestd.html#a01adabed80282631f7195c347f5f5836',1,'std']]],
+  ['byte_6478',['byte',['../vcslib_8h.html#a0c8186d9b9b7880309c27230bbb5e69d',1,'vcslib.h']]]
 ];

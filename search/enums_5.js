@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['sortron_5fcommand_5ft_3933',['sortron_command_t',['../rpc8e_2librpc8e_2include_2rpc8e_2hardware_8h.html#aef8bc2894580aee9e7eec9165e591b5b',1,'hardware.h']]]
+  ['menu_5faction_5ft_6633',['menu_action_t',['../geos__constants_8h.html#a07ffc5693ef8d8cc7acf09d23b3893cb',1,'geos_constants.h']]],
+  ['menu_5ftype_5ft_6634',['menu_type_t',['../geos__constants_8h.html#ae04d0184eeca6be261090a6cfc49b92e',1,'geos_constants.h']]]
 ];

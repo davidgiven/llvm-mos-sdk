@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['nothrow_5ft_2853',['nothrow_t',['../structstd_1_1nothrow__t.html',1,'std']]],
-  ['numeric_5flimits_2854',['numeric_limits',['../classstd_1_1numeric__limits.html',1,'std']]]
+  ['ldiv_5ft_4781',['ldiv_t',['../structldiv__t.html',1,'']]],
+  ['lldiv_5ft_4782',['lldiv_t',['../structlldiv__t.html',1,'']]]
 ];

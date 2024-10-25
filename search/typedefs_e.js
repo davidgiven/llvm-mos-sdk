@@ -1,17 +1,18 @@
 var searchData=
 [
-  ['uint16_5ft_3895',['uint16_t',['../namespacestd.html#a5424027d5f6def642910ec17dcdf8642',1,'std']]],
-  ['uint32_5ft_3896',['uint32_t',['../namespacestd.html#a15c5488726b227b4329b56a9808419c5',1,'std']]],
-  ['uint64_5ft_3897',['uint64_t',['../namespacestd.html#a1ce6de0a3d08cdabcaa32fa4398584ef',1,'std']]],
-  ['uint8_5ft_3898',['uint8_t',['../namespacestd.html#a6d89cedd5261b21b5ec15155b9161dd8',1,'std']]],
-  ['uint_5ffast16_5ft_3899',['uint_fast16_t',['../namespacestd.html#a83ade92e8e2d3ae4c3743ece185628fd',1,'std']]],
-  ['uint_5ffast32_5ft_3900',['uint_fast32_t',['../namespacestd.html#a266b269232a678c5a1239d772301a610',1,'std']]],
-  ['uint_5ffast64_5ft_3901',['uint_fast64_t',['../namespacestd.html#a88170cd2107fc4296096efee7f07100b',1,'std']]],
-  ['uint_5ffast8_5ft_3902',['uint_fast8_t',['../namespacestd.html#af38e915c0dfec37529aa3634ceed6d4f',1,'std']]],
-  ['uint_5fleast16_5ft_3903',['uint_least16_t',['../namespacestd.html#a5da112139b86a72e510f9503a7b7e7c7',1,'std']]],
-  ['uint_5fleast32_5ft_3904',['uint_least32_t',['../namespacestd.html#adb14adbc0ec3deef74871065e1c2f6af',1,'std']]],
-  ['uint_5fleast64_5ft_3905',['uint_least64_t',['../namespacestd.html#a99d250aa71e7f00ee2ea8dd0d31bfeb9',1,'std']]],
-  ['uint_5fleast8_5ft_3906',['uint_least8_t',['../namespacestd.html#a97e7089a4caf267c991c35864f71e962',1,'std']]],
-  ['uintmax_5ft_3907',['uintmax_t',['../namespacestd.html#a525190b45afaf4bfb46a82965a182488',1,'std']]],
-  ['uintptr_5ft_3908',['uintptr_t',['../namespacestd.html#aaf043140c8126b986960273ff02e1220',1,'std']]]
+  ['sbyte_6582',['sbyte',['../vcslib_8h.html#ae1e823357de7a263f2ed95e66b14e66c',1,'vcslib.h']]],
+  ['scb_5frehv_6583',['SCB_REHV',['../__suzy_8h.html#ae888e66ae6cd7e8dd63cef778e6e64a7',1,'_suzy.h']]],
+  ['scb_5frehv_5fpal_6584',['SCB_REHV_PAL',['../__suzy_8h.html#a9a429feacc2a9810846ee1ce03a5bedb',1,'_suzy.h']]],
+  ['scb_5frehvs_6585',['SCB_REHVS',['../__suzy_8h.html#af5e2b234b993ad21bf64149154db340e',1,'_suzy.h']]],
+  ['scb_5frehvs_5fpal_6586',['SCB_REHVS_PAL',['../__suzy_8h.html#add2ab67150a6ce015ffaa34b5982ad05',1,'_suzy.h']]],
+  ['scb_5frehvst_6587',['SCB_REHVST',['../__suzy_8h.html#a26fb893c54b6ae524d6c07bc43712171',1,'_suzy.h']]],
+  ['scb_5frehvst_5fpal_6588',['SCB_REHVST_PAL',['../__suzy_8h.html#a92d2e423661dd581d61292ddb56a4788',1,'_suzy.h']]],
+  ['scb_5frenone_6589',['SCB_RENONE',['../__suzy_8h.html#adafb267e52fb54f50dd3f3f39d97b0e1',1,'_suzy.h']]],
+  ['scb_5frenone_5fpal_6590',['SCB_RENONE_PAL',['../__suzy_8h.html#afbfeca58700374a0285c9ee8fddbf675',1,'_suzy.h']]],
+  ['second_5ftype_6591',['second_type',['../structstd_1_1pair.html#a73d3913395d3acf32aa8afa2087faab8',1,'std::pair']]],
+  ['sector_5ft_6592',['sector_t',['../geos__types_8h.html#aec49581a8f00a4b9c3ebca6e15e5e3b2',1,'geos_types.h']]],
+  ['sig_5fatomic_5ft_6593',['sig_atomic_t',['../signal_8h.html#a00bf0fda121f6e68e9395e7fb248a309',1,'signal.h']]],
+  ['size_5ft_6594',['size_t',['../namespacestd.html#ae42c45d609eacb3768b7b10c1d90eabb',1,'std::size_t()'],['../unistd_8h.html#a028b7cbca0d37bbc9bc219370525227f',1,'size_t():&#160;unistd.h']]],
+  ['size_5ftype_6595',['size_type',['../structstd_1_1array.html#a26cb234485b487e695e75640b2da6397',1,'std::array::size_type()'],['../classstd_1_1initializer__list.html#ae137630e6f4c81c399f953c348fb7d8f',1,'std::initializer_list::size_type()']]],
+  ['storagetype_6596',['StorageType',['../classFixedPoint.html#a614c1918d5f1bb867e216c180007dc7e',1,'FixedPoint']]]
 ];
